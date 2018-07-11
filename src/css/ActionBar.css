@@ -1,0 +1,31 @@
+.trigger {
+    font-size: 18px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color .3s;
+    line-height: 64px;
+}
+
+.trigger:hover {
+    color: #1890ff;
+}
+
+.user{
+    float: right;
+    margin-right: 10px;
+    padding: 0 24px;
+}
+
+.user:hover{
+    background: #E6F7FF;
+}
+
+.logout,.userName {
+    margin-left: 10px;
+}
+
+.avatar {
+    color: #f56a00;
+    background-color: #fde3cf;
+}
+
