@@ -45,7 +45,7 @@ class App extends Component {
                         </Content>
 
                         <Footer style={{textAlign: 'center'}}>
-                            Copyright©2018 深圳君南信息系统有限公司
+                            Copyright©2018 panyz
                         </Footer>
                     </Layout>
                 </Layout>

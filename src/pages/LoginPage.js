@@ -155,7 +155,7 @@ class Login extends Component {
                 </div>
 
                 <div className="footer">
-                    <span> Copyright©2018 深圳君南信息系统有限公司</span>
+                    <span> Copyright©2018 panyz</span>
                 </div>
 
             </div>

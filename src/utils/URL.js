@@ -2,7 +2,7 @@
  * 网络请求URL
  * Created by panyz on 2018/6/8.
  */
-const BASE_URL = "http://192.168.10.66:8080/";
+const BASE_URL = "your server name and port";
 
 export const LOGIN = BASE_URL + "userAction/login";//登录接口
 
